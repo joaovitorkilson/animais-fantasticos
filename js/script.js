@@ -11,7 +11,7 @@ import initFetchAnimais from './modules/fetch-animais.js';
 import initFetchBitcoin from './modules/fetch-bitcoin.js';
 const scrollSuave = new ScrollSuave('[data-menu="suave"] a');
 scrollSuave.init();
-
+console.log('teste')
 initAnimacaoScroll();
 initAccordion();
 initTabNav();
