@@ -24,5 +24,6 @@ module.exports = {
     "no-param-reassign": "off",
     quotes: "off",
     "no-console": "off",
+    "operator-linebreak": "off",
   },
 };
